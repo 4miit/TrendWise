@@ -1,4 +1,4 @@
-# folder structure of the project 
+# Folder structure of  TrendWise  
 
 ```bash
 
