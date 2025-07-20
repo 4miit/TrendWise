@@ -1,4 +1,4 @@
-# Folder structure of  TrendWise  
+# Folder structure of  Full-Stack-CleverBook
 
 ```bash
 
